@@ -1,0 +1,14 @@
+<svg aria-hidden="true" width="50" height="60" viewBox="0 0 50 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="svg-GreenTrapezoidDouble-3iXO8aM" d="M0 .053h49.868v38.443H0z"></path>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 38.678v21.307h31.726c.426 0 .72-.423.57-.818l-7.814-20.49" fill="#CEEAD6"></path>
+        <g transform="translate(0 .181)">
+            <mask id="svg-GreenTrapezoidDouble-39QNh-c" fill="#fff">
+                <use xlink:href="#svg-GreenTrapezoidDouble-3iXO8aM"></use>
+            </mask>
+            <path d="M49.817 37.728L32.26.053H0v38.443h49.32c.4 0 .664-.409.497-.768" fill="#34A853" mask="url(#svg-GreenTrapezoidDouble-39QNh-c)"></path>
+        </g>
+    </g>
+</svg>
