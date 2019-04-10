@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/HOkAaxs.png)
 
+![](https://i.imgur.com/snci2zM.jpg)
+
 All the SVG files from Google I/O 2019 website.
 
 Original code extracted from https://events.google.com/io/.
