@@ -1,0 +1,22 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 192 108"
+    id="vector">
+    <path
+        id="path_3"
+        d="M 26 56.75 L 137.5 56.75 L 137.5 108 L 26 108 Z"
+        fill="#fde293"
+        fill-rule="evenodd"/>
+    <path
+        id="path_4"
+        d="M 178.62 0 L 178.62 56.8 C 178.62 59.51 174.99 61.07 172.61 59.21 L 114.61 -2.79"
+        fill="none"
+        stroke="#174ea6"
+        stroke-width="3.96"/>
+    <path
+        id="path_5"
+        d="M 119.22 129.82 C 119.22 77.87 77.11 35.76 25.17 35.76 C -26.77 35.76 -68.88 77.87 -68.88 129.82"
+        fill="none"
+        stroke="#5bb974"
+        stroke-width="3.96"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 80 16"
+    id="vector">
+    <path
+        id="path"
+        d="M 17.76 0 L 17.76 16"
+        fill="none"
+        stroke="#aecbfa"
+        stroke-width="1.32"/>
+    <path
+        id="path_1"
+        d="M 0.66 16 L 0.66 6.16 L 72 6.16 L 72 16"
+        fill="none"
+        stroke="#d2e3fc"
+        stroke-width="1.32"/>
+    <path
+        id="path_2"
+        d="M 10.34 0 L 10.34 16 M 45.5 29.6 L 36.12 11.82 L 52.46 11.82 L 37.6 -10.24"
+        fill="none"
+        stroke="#4285f4"
+        stroke-width="1.32"/>
+</svg>

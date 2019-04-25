@@ -1,0 +1,2353 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 359 251"
+    id="vector">
+    <path
+        id="path"
+        d="M 0 0 L 360 0 L 360 250 L 0 250 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_1"
+        d="M 191.662 26.614 C 186.752 21.7 178.792 21.7 173.882 26.614 C 168.972 31.528 168.972 39.495 173.882 44.409 L 182.772 53.307 L 191.662 44.409 C 196.572 39.495 196.572 31.528 191.662 26.614"
+        fill="#fbbc06"
+        fill-rule="evenodd"/>
+    <path
+        id="path_2"
+        d="M 182.044 149.545 L 183.5 149.545 L 183.5 138.799 L 182.044 138.799 Z M 182.044 138.799 L 183.5 138.799 L 183.5 138.557 L 182.044 138.557 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_3"
+        d="M 182.044 138.557 L 183.5 138.557 L 183.5 138.315 L 182.044 138.315 Z"
+        fill="#fffffe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_4"
+        d="M 182.044 138.315 L 183.5 138.315 L 183.5 138.073 L 182.044 138.073 Z"
+        fill="#fffefd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_5"
+        d="M 182.044 138.073 L 183.5 138.073 L 183.5 137.831 L 182.044 137.831 Z"
+        fill="#fffefc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_6"
+        d="M 182.044 137.831 L 183.5 137.831 L 183.5 137.589 L 182.044 137.589 Z"
+        fill="#fffefb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_7"
+        d="M 182.044 137.589 L 183.5 137.589 L 183.5 137.346 L 182.044 137.346 Z"
+        fill="#fffefa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_8"
+        d="M 182.044 137.347 L 183.5 137.347 L 183.5 137.104 L 182.044 137.104 Z"
+        fill="#fffdf9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_9"
+        d="M 182.044 137.104 L 183.5 137.104 L 183.5 136.862 L 182.044 136.862 Z"
+        fill="#fffdf8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_10"
+        d="M 182.044 136.862 L 183.5 136.862 L 183.5 136.62 L 182.044 136.62 Z"
+        fill="#fffdf7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_11"
+        d="M 182.044 136.62 L 183.5 136.62 L 183.5 136.378 L 182.044 136.378 Z"
+        fill="#fffdf6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_12"
+        d="M 182.044 136.377 L 183.5 136.377 L 183.5 136.136 L 182.044 136.136 Z"
+        fill="#fffcf5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_13"
+        d="M 182.044 136.135 L 183.5 136.135 L 183.5 135.893 L 182.044 135.893 Z"
+        fill="#fffcf4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_14"
+        d="M 182.044 135.893 L 183.5 135.893 L 183.5 135.651 L 182.044 135.651 Z"
+        fill="#fffcf3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_15"
+        d="M 182.044 135.651 L 183.5 135.651 L 183.5 135.409 L 182.044 135.409 Z"
+        fill="#fffbf2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_16"
+        d="M 182.044 135.409 L 183.5 135.409 L 183.5 135.167 L 182.044 135.167 Z"
+        fill="#fffbf1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_17"
+        d="M 182.044 135.167 L 183.5 135.167 L 183.5 134.925 L 182.044 134.925 Z"
+        fill="#fffbf0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_18"
+        d="M 182.044 134.925 L 183.5 134.925 L 183.5 134.683 L 182.044 134.683 Z"
+        fill="#fffbef"
+        fill-rule="evenodd"/>
+    <path
+        id="path_19"
+        d="M 182.044 134.682 L 183.5 134.682 L 183.5 134.441 L 182.044 134.441 Z"
+        fill="#fffaee"
+        fill-rule="evenodd"/>
+    <path
+        id="path_20"
+        d="M 182.044 134.441 L 183.5 134.441 L 183.5 134.199 L 182.044 134.199 Z"
+        fill="#fffaed"
+        fill-rule="evenodd"/>
+    <path
+        id="path_21"
+        d="M 182.044 134.199 L 183.5 134.199 L 183.5 133.957 L 182.044 133.957 Z"
+        fill="#fffaec"
+        fill-rule="evenodd"/>
+    <path
+        id="path_22"
+        d="M 182.044 133.957 L 183.5 133.957 L 183.5 133.714 L 182.044 133.714 Z"
+        fill="#fffaeb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_23"
+        d="M 182.044 133.714 L 183.5 133.714 L 183.5 133.472 L 182.044 133.472 Z"
+        fill="#fff9ea"
+        fill-rule="evenodd"/>
+    <path
+        id="path_24"
+        d="M 182.044 133.472 L 183.5 133.472 L 183.5 133.23 L 182.044 133.23 Z"
+        fill="#fff9e9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_25"
+        d="M 182.044 133.23 L 183.5 133.23 L 183.5 132.988 L 182.044 132.988 Z"
+        fill="#fff9e8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_26"
+        d="M 182.044 132.987 L 183.5 132.987 L 183.5 132.745 L 182.044 132.745 Z"
+        fill="#fff9e7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_27"
+        d="M 182.044 132.745 L 183.5 132.745 L 183.5 132.503 L 182.044 132.503 Z"
+        fill="#fff8e6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_28"
+        d="M 182.044 132.503 L 183.5 132.503 L 183.5 132.261 L 182.044 132.261 Z"
+        fill="#fff8e5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_29"
+        d="M 182.044 132.261 L 183.5 132.261 L 183.5 132.019 L 182.044 132.019 Z"
+        fill="#fff8e4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_30"
+        d="M 182.044 132.019 L 183.5 132.019 L 183.5 131.777 L 182.044 131.777 Z"
+        fill="#fff7e3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_31"
+        d="M 182.044 131.777 L 183.5 131.777 L 183.5 131.535 L 182.044 131.535 Z"
+        fill="#fff7e2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_32"
+        d="M 182.044 131.534 L 183.5 131.534 L 183.5 131.292 L 182.044 131.292 Z"
+        fill="#fff7e1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_33"
+        d="M 182.044 131.292 L 183.5 131.292 L 183.5 131.05 L 182.044 131.05 Z"
+        fill="#fff7e0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_34"
+        d="M 182.044 131.05 L 183.5 131.05 L 183.5 130.808 L 182.044 130.808 Z"
+        fill="#fef6df"
+        fill-rule="evenodd"/>
+    <path
+        id="path_35"
+        d="M 182.044 130.808 L 183.5 130.808 L 183.5 130.566 L 182.044 130.566 Z"
+        fill="#fef6de"
+        fill-rule="evenodd"/>
+    <path
+        id="path_36"
+        d="M 182.044 130.566 L 183.5 130.566 L 183.5 130.324 L 182.044 130.324 Z"
+        fill="#fef6dd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_37"
+        d="M 182.044 130.324 L 183.5 130.324 L 183.5 130.082 L 182.044 130.082 Z"
+        fill="#fef6dc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_38"
+        d="M 182.044 130.082 L 183.5 130.082 L 183.5 129.84 L 182.044 129.84 Z"
+        fill="#fef5db"
+        fill-rule="evenodd"/>
+    <path
+        id="path_39"
+        d="M 182.044 129.84 L 183.5 129.84 L 183.5 129.598 L 182.044 129.598 Z"
+        fill="#fef5da"
+        fill-rule="evenodd"/>
+    <path
+        id="path_40"
+        d="M 182.044 129.597 L 183.5 129.597 L 183.5 129.356 L 182.044 129.356 Z"
+        fill="#fef5d9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_41"
+        d="M 182.044 129.356 L 183.5 129.356 L 183.5 129.113 L 182.044 129.113 Z"
+        fill="#fef4d8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_42"
+        d="M 182.044 129.113 L 183.5 129.113 L 183.5 128.871 L 182.044 128.871 Z"
+        fill="#fef4d7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_43"
+        d="M 182.044 128.871 L 183.5 128.871 L 183.5 128.629 L 182.044 128.629 Z"
+        fill="#fef4d6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_44"
+        d="M 182.044 128.629 L 183.5 128.629 L 183.5 128.387 L 182.044 128.387 Z"
+        fill="#fef4d5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_45"
+        d="M 182.044 128.387 L 183.5 128.387 L 183.5 128.144 L 182.044 128.144 Z"
+        fill="#fef3d4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_46"
+        d="M 182.044 128.144 L 183.5 128.144 L 183.5 127.902 L 182.044 127.902 Z"
+        fill="#fef3d3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_47"
+        d="M 182.044 127.902 L 183.5 127.902 L 183.5 127.66 L 182.044 127.66 Z"
+        fill="#fef3d2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_48"
+        d="M 182.044 127.66 L 183.5 127.66 L 183.5 127.418 L 182.044 127.418 Z"
+        fill="#fef3d1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_49"
+        d="M 182.044 127.417 L 183.5 127.417 L 183.5 127.176 L 182.044 127.176 Z"
+        fill="#fef2d0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_50"
+        d="M 182.044 127.176 L 183.5 127.176 L 183.5 126.934 L 182.044 126.934 Z"
+        fill="#fef2cf"
+        fill-rule="evenodd"/>
+    <path
+        id="path_51"
+        d="M 182.044 126.934 L 183.5 126.934 L 183.5 126.692 L 182.044 126.692 Z"
+        fill="#fef2ce"
+        fill-rule="evenodd"/>
+    <path
+        id="path_52"
+        d="M 182.044 126.691 L 183.5 126.691 L 183.5 126.449 L 182.044 126.449 Z"
+        fill="#fef1cd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_53"
+        d="M 182.044 126.449 L 183.5 126.449 L 183.5 126.208 L 182.044 126.208 Z"
+        fill="#fef1cc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_54"
+        d="M 182.044 126.207 L 183.5 126.207 L 183.5 125.966 L 182.044 125.966 Z"
+        fill="#fef1cb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_55"
+        d="M 182.044 125.965 L 183.5 125.965 L 183.5 125.723 L 182.044 125.723 Z"
+        fill="#fef1ca"
+        fill-rule="evenodd"/>
+    <path
+        id="path_56"
+        d="M 182.044 125.723 L 183.5 125.723 L 183.5 125.481 L 182.044 125.481 Z"
+        fill="#fef0c9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_57"
+        d="M 182.044 125.481 L 183.5 125.481 L 183.5 125.239 L 182.044 125.239 Z"
+        fill="#fef0c8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_58"
+        d="M 182.044 125.239 L 183.5 125.239 L 183.5 124.996 L 182.044 124.996 Z"
+        fill="#fef0c7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_59"
+        d="M 182.044 124.997 L 183.5 124.997 L 183.5 124.754 L 182.044 124.754 Z"
+        fill="#fef0c6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_60"
+        d="M 182.044 124.754 L 183.5 124.754 L 183.5 124.512 L 182.044 124.512 Z"
+        fill="#feefc5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_61"
+        d="M 182.044 124.512 L 183.5 124.512 L 183.5 124.27 L 182.044 124.27 Z"
+        fill="#feefc4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_62"
+        d="M 182.044 124.27 L 183.5 124.27 L 183.5 124.028 L 182.044 124.028 Z"
+        fill="#feefc3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_63"
+        d="M 182.044 124.027 L 183.5 124.027 L 183.5 123.786 L 182.044 123.786 Z"
+        fill="#feefc2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_64"
+        d="M 182.044 123.786 L 183.5 123.786 L 183.5 123.544 L 182.044 123.544 Z"
+        fill="#feeec1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_65"
+        d="M 182.044 123.544 L 183.5 123.544 L 183.5 123.302 L 182.044 123.302 Z"
+        fill="#feeec0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_66"
+        d="M 182.044 123.302 L 183.5 123.302 L 183.5 123.06 L 182.044 123.06 Z"
+        fill="#feeebf"
+        fill-rule="evenodd"/>
+    <path
+        id="path_67"
+        d="M 182.044 123.059 L 183.5 123.059 L 183.5 122.817 L 182.044 122.817 Z"
+        fill="#feedbe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_68"
+        d="M 182.044 122.817 L 183.5 122.817 L 183.5 122.575 L 182.044 122.575 Z"
+        fill="#feedbd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_69"
+        d="M 182.044 122.575 L 183.5 122.575 L 183.5 122.333 L 182.044 122.333 Z"
+        fill="#feedbc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_70"
+        d="M 182.044 122.333 L 183.5 122.333 L 183.5 122.091 L 182.044 122.091 Z"
+        fill="#feedbb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_71"
+        d="M 182.044 122.091 L 183.5 122.091 L 183.5 121.849 L 182.044 121.849 Z"
+        fill="#feecba"
+        fill-rule="evenodd"/>
+    <path
+        id="path_72"
+        d="M 182.044 121.849 L 183.5 121.849 L 183.5 121.607 L 182.044 121.607 Z"
+        fill="#feecb9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_73"
+        d="M 182.044 121.607 L 183.5 121.607 L 183.5 121.364 L 182.044 121.364 Z"
+        fill="#feecb8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_74"
+        d="M 182.044 121.365 L 183.5 121.365 L 183.5 121.123 L 182.044 121.123 Z"
+        fill="#feecb7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_75"
+        d="M 182.044 121.122 L 183.5 121.122 L 183.5 120.88 L 182.044 120.88 Z"
+        fill="#feebb6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_76"
+        d="M 182.044 120.88 L 183.5 120.88 L 183.5 120.638 L 182.044 120.638 Z"
+        fill="#feebb5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_77"
+        d="M 182.044 120.638 L 183.5 120.638 L 183.5 120.396 L 182.044 120.396 Z"
+        fill="#feebb4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_78"
+        d="M 182.044 120.395 L 183.5 120.395 L 183.5 120.153 L 182.044 120.153 Z"
+        fill="#feeab3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_79"
+        d="M 182.044 120.153 L 183.5 120.153 L 183.5 119.911 L 182.044 119.911 Z"
+        fill="#feeab2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_80"
+        d="M 182.044 119.911 L 183.5 119.911 L 183.5 119.669 L 182.044 119.669 Z"
+        fill="#feeab1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_81"
+        d="M 182.044 119.669 L 183.5 119.669 L 183.5 119.427 L 182.044 119.427 Z"
+        fill="#feeab0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_82"
+        d="M 182.044 119.427 L 183.5 119.427 L 183.5 119.185 L 182.044 119.185 Z"
+        fill="#fee9af"
+        fill-rule="evenodd"/>
+    <path
+        id="path_83"
+        d="M 182.044 119.185 L 183.5 119.185 L 183.5 118.943 L 182.044 118.943 Z"
+        fill="#fee9ae"
+        fill-rule="evenodd"/>
+    <path
+        id="path_84"
+        d="M 182.044 118.943 L 183.5 118.943 L 183.5 118.701 L 182.044 118.701 Z"
+        fill="#fee9ad"
+        fill-rule="evenodd"/>
+    <path
+        id="path_85"
+        d="M 182.044 118.701 L 183.5 118.701 L 183.5 118.459 L 182.044 118.459 Z"
+        fill="#fee9ac"
+        fill-rule="evenodd"/>
+    <path
+        id="path_86"
+        d="M 182.044 118.458 L 183.5 118.458 L 183.5 118.216 L 182.044 118.216 Z"
+        fill="#fee8ab"
+        fill-rule="evenodd"/>
+    <path
+        id="path_87"
+        d="M 182.044 118.217 L 183.5 118.217 L 183.5 117.974 L 182.044 117.974 Z"
+        fill="#fee8aa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_88"
+        d="M 182.044 117.974 L 183.5 117.974 L 183.5 117.732 L 182.044 117.732 Z"
+        fill="#fee8a9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_89"
+        d="M 182.044 117.732 L 183.5 117.732 L 183.5 117.49 L 182.044 117.49 Z"
+        fill="#fee7a8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_90"
+        d="M 182.044 117.49 L 183.5 117.49 L 183.5 117.248 L 182.044 117.248 Z"
+        fill="#fee7a7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_91"
+        d="M 182.044 117.247 L 183.5 117.247 L 183.5 117.006 L 182.044 117.006 Z"
+        fill="#fee7a6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_92"
+        d="M 182.044 117.006 L 183.5 117.006 L 183.5 116.763 L 182.044 116.763 Z"
+        fill="#fee7a5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_93"
+        d="M 182.044 116.763 L 183.5 116.763 L 183.5 116.521 L 182.044 116.521 Z"
+        fill="#fee6a4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_94"
+        d="M 182.044 116.521 L 183.5 116.521 L 183.5 116.279 L 182.044 116.279 Z"
+        fill="#fee6a3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_95"
+        d="M 182.044 116.279 L 183.5 116.279 L 183.5 116.037 L 182.044 116.037 Z"
+        fill="#fee6a2"
+        fill-rule="evenodd"/>
+    <path
+        id="path_96"
+        d="M 182.044 116.037 L 183.5 116.037 L 183.5 115.795 L 182.044 115.795 Z"
+        fill="#fde6a1"
+        fill-rule="evenodd"/>
+    <path
+        id="path_97"
+        d="M 182.044 115.795 L 183.5 115.795 L 183.5 115.553 L 182.044 115.553 Z"
+        fill="#fde5a0"
+        fill-rule="evenodd"/>
+    <path
+        id="path_98"
+        d="M 182.044 115.552 L 183.5 115.552 L 183.5 115.31 L 182.044 115.31 Z"
+        fill="#fde59f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_99"
+        d="M 182.044 115.31 L 183.5 115.31 L 183.5 115.068 L 182.044 115.068 Z"
+        fill="#fde59e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_100"
+        d="M 182.044 115.068 L 183.5 115.068 L 183.5 114.826 L 182.044 114.826 Z"
+        fill="#fde59d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_101"
+        d="M 182.044 114.827 L 183.5 114.827 L 183.5 114.584 L 182.044 114.584 Z"
+        fill="#fde49c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_102"
+        d="M 182.044 114.584 L 183.5 114.584 L 183.5 114.342 L 182.044 114.342 Z"
+        fill="#fde49b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_103"
+        d="M 182.044 114.342 L 183.5 114.342 L 183.5 114.1 L 182.044 114.1 Z"
+        fill="#fde49a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_104"
+        d="M 182.044 114.1 L 183.5 114.1 L 183.5 113.858 L 182.044 113.858 Z"
+        fill="#fde399"
+        fill-rule="evenodd"/>
+    <path
+        id="path_105"
+        d="M 182.044 113.857 L 183.5 113.857 L 183.5 113.616 L 182.044 113.616 Z"
+        fill="#fde398"
+        fill-rule="evenodd"/>
+    <path
+        id="path_106"
+        d="M 182.044 113.615 L 183.5 113.615 L 183.5 113.373 L 182.044 113.373 Z"
+        fill="#fde397"
+        fill-rule="evenodd"/>
+    <path
+        id="path_107"
+        d="M 182.044 113.373 L 183.5 113.373 L 183.5 113.131 L 182.044 113.131 Z"
+        fill="#fde396"
+        fill-rule="evenodd"/>
+    <path
+        id="path_108"
+        d="M 182.044 113.131 L 183.5 113.131 L 183.5 112.889 L 182.044 112.889 Z"
+        fill="#fde295"
+        fill-rule="evenodd"/>
+    <path
+        id="path_109"
+        d="M 182.044 112.889 L 183.5 112.889 L 183.5 112.647 L 182.044 112.647 Z"
+        fill="#fde294"
+        fill-rule="evenodd"/>
+    <path
+        id="path_110"
+        d="M 182.044 112.647 L 183.5 112.647 L 183.5 112.405 L 182.044 112.405 Z"
+        fill="#fde293"
+        fill-rule="evenodd"/>
+    <path
+        id="path_111"
+        d="M 182.044 112.404 L 183.5 112.404 L 183.5 112.162 L 182.044 112.162 Z"
+        fill="#fde292"
+        fill-rule="evenodd"/>
+    <path
+        id="path_112"
+        d="M 182.044 112.162 L 183.5 112.162 L 183.5 111.92 L 182.044 111.92 Z"
+        fill="#fde191"
+        fill-rule="evenodd"/>
+    <path
+        id="path_113"
+        d="M 182.044 111.92 L 183.5 111.92 L 183.5 111.678 L 182.044 111.678 Z"
+        fill="#fde190"
+        fill-rule="evenodd"/>
+    <path
+        id="path_114"
+        d="M 182.044 111.677 L 183.5 111.677 L 183.5 111.436 L 182.044 111.436 Z"
+        fill="#fde18f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_115"
+        d="M 182.044 111.437 L 183.5 111.437 L 183.5 111.194 L 182.044 111.194 Z"
+        fill="#fde08e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_116"
+        d="M 182.044 111.194 L 183.5 111.194 L 183.5 110.952 L 182.044 110.952 Z"
+        fill="#fde08d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_117"
+        d="M 182.044 110.952 L 183.5 110.952 L 183.5 110.71 L 182.044 110.71 Z"
+        fill="#fde08c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_118"
+        d="M 182.044 110.71 L 183.5 110.71 L 183.5 110.468 L 182.044 110.468 Z"
+        fill="#fde08b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_119"
+        d="M 182.044 110.467 L 183.5 110.467 L 183.5 110.225 L 182.044 110.225 Z"
+        fill="#fddf8a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_120"
+        d="M 182.044 110.225 L 183.5 110.225 L 183.5 109.983 L 182.044 109.983 Z"
+        fill="#fddf89"
+        fill-rule="evenodd"/>
+    <path
+        id="path_121"
+        d="M 182.044 109.983 L 183.5 109.983 L 183.5 109.741 L 182.044 109.741 Z"
+        fill="#fddf88"
+        fill-rule="evenodd"/>
+    <path
+        id="path_122"
+        d="M 182.044 109.741 L 183.5 109.741 L 183.5 109.499 L 182.044 109.499 Z"
+        fill="#fddf87"
+        fill-rule="evenodd"/>
+    <path
+        id="path_123"
+        d="M 182.044 109.499 L 183.5 109.499 L 183.5 109.257 L 182.044 109.257 Z"
+        fill="#fdde86"
+        fill-rule="evenodd"/>
+    <path
+        id="path_124"
+        d="M 182.044 109.257 L 183.5 109.257 L 183.5 109.015 L 182.044 109.015 Z"
+        fill="#fdde85"
+        fill-rule="evenodd"/>
+    <path
+        id="path_125"
+        d="M 182.044 109.015 L 183.5 109.015 L 183.5 108.773 L 182.044 108.773 Z"
+        fill="#fdde84"
+        fill-rule="evenodd"/>
+    <path
+        id="path_126"
+        d="M 182.044 108.773 L 183.5 108.773 L 183.5 108.53 L 182.044 108.53 Z"
+        fill="#fdde83"
+        fill-rule="evenodd"/>
+    <path
+        id="path_127"
+        d="M 182.044 108.53 L 183.5 108.53 L 183.5 108.288 L 182.044 108.288 Z"
+        fill="#fddd81"
+        fill-rule="evenodd"/>
+    <path
+        id="path_128"
+        d="M 182.044 108.288 L 183.5 108.288 L 183.5 108.046 L 182.044 108.046 Z"
+        fill="#fddd80"
+        fill-rule="evenodd"/>
+    <path
+        id="path_129"
+        d="M 182.044 108.046 L 183.5 108.046 L 183.5 107.804 L 182.044 107.804 Z"
+        fill="#fddd7f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_130"
+        d="M 182.044 107.803 L 183.5 107.803 L 183.5 107.561 L 182.044 107.561 Z"
+        fill="#fddc7e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_131"
+        d="M 182.044 107.561 L 183.5 107.561 L 183.5 107.319 L 182.044 107.319 Z"
+        fill="#fddc7d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_132"
+        d="M 182.044 107.319 L 183.5 107.319 L 183.5 107.077 L 182.044 107.077 Z"
+        fill="#fddc7c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_133"
+        d="M 182.044 107.077 L 183.5 107.077 L 183.5 106.835 L 182.044 106.835 Z"
+        fill="#fddc7b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_134"
+        d="M 182.044 106.835 L 183.5 106.835 L 183.5 106.593 L 182.044 106.593 Z"
+        fill="#fddb7a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_135"
+        d="M 182.044 106.593 L 183.5 106.593 L 183.5 106.351 L 182.044 106.351 Z"
+        fill="#fddb79"
+        fill-rule="evenodd"/>
+    <path
+        id="path_136"
+        d="M 182.044 106.351 L 183.5 106.351 L 183.5 106.109 L 182.044 106.109 Z"
+        fill="#fddb78"
+        fill-rule="evenodd"/>
+    <path
+        id="path_137"
+        d="M 182.044 106.109 L 183.5 106.109 L 183.5 105.867 L 182.044 105.867 Z"
+        fill="#fddb77"
+        fill-rule="evenodd"/>
+    <path
+        id="path_138"
+        d="M 182.044 105.867 L 183.5 105.867 L 183.5 105.624 L 182.044 105.624 Z"
+        fill="#fdda76"
+        fill-rule="evenodd"/>
+    <path
+        id="path_139"
+        d="M 182.044 105.624 L 183.5 105.624 L 183.5 105.382 L 182.044 105.382 Z"
+        fill="#fdda75"
+        fill-rule="evenodd"/>
+    <path
+        id="path_140"
+        d="M 182.044 105.382 L 183.5 105.382 L 183.5 105.14 L 182.044 105.14 Z"
+        fill="#fdda74"
+        fill-rule="evenodd"/>
+    <path
+        id="path_141"
+        d="M 182.044 105.14 L 183.5 105.14 L 183.5 104.898 L 182.044 104.898 Z"
+        fill="#fdd973"
+        fill-rule="evenodd"/>
+    <path
+        id="path_142"
+        d="M 182.044 104.898 L 183.5 104.898 L 183.5 104.656 L 182.044 104.656 Z"
+        fill="#fdd972"
+        fill-rule="evenodd"/>
+    <path
+        id="path_143"
+        d="M 182.044 104.656 L 183.5 104.656 L 183.5 104.413 L 182.044 104.413 Z"
+        fill="#fdd971"
+        fill-rule="evenodd"/>
+    <path
+        id="path_144"
+        d="M 182.044 104.413 L 183.5 104.413 L 183.5 104.171 L 182.044 104.171 Z"
+        fill="#fdd970"
+        fill-rule="evenodd"/>
+    <path
+        id="path_145"
+        d="M 182.044 104.171 L 183.5 104.171 L 183.5 103.929 L 182.044 103.929 Z"
+        fill="#fdd86f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_146"
+        d="M 182.044 103.929 L 183.5 103.929 L 183.5 103.687 L 182.044 103.687 Z"
+        fill="#fdd86e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_147"
+        d="M 182.044 103.687 L 183.5 103.687 L 183.5 103.445 L 182.044 103.445 Z"
+        fill="#fdd86d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_148"
+        d="M 182.044 103.445 L 183.5 103.445 L 183.5 103.203 L 182.044 103.203 Z"
+        fill="#fdd86c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_149"
+        d="M 182.044 103.203 L 183.5 103.203 L 183.5 102.961 L 182.044 102.961 Z"
+        fill="#fdd76b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_150"
+        d="M 182.044 102.961 L 183.5 102.961 L 183.5 102.719 L 182.044 102.719 Z"
+        fill="#fdd76a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_151"
+        d="M 182.044 102.719 L 183.5 102.719 L 183.5 102.477 L 182.044 102.477 Z"
+        fill="#fdd769"
+        fill-rule="evenodd"/>
+    <path
+        id="path_152"
+        d="M 182.044 102.477 L 183.5 102.477 L 183.5 102.234 L 182.044 102.234 Z"
+        fill="#fdd668"
+        fill-rule="evenodd"/>
+    <path
+        id="path_153"
+        d="M 182.044 102.234 L 183.5 102.234 L 183.5 101.992 L 182.044 101.992 Z"
+        fill="#fdd667"
+        fill-rule="evenodd"/>
+    <path
+        id="path_154"
+        d="M 182.044 101.992 L 183.5 101.992 L 183.5 101.75 L 182.044 101.75 Z"
+        fill="#fdd666"
+        fill-rule="evenodd"/>
+    <path
+        id="path_155"
+        d="M 182.044 101.75 L 183.5 101.75 L 183.5 101.508 L 182.044 101.508 Z"
+        fill="#fdd665"
+        fill-rule="evenodd"/>
+    <path
+        id="path_156"
+        d="M 182.044 101.507 L 183.5 101.507 L 183.5 101.266 L 182.044 101.266 Z"
+        fill="#fdd564"
+        fill-rule="evenodd"/>
+    <path
+        id="path_157"
+        d="M 182.044 101.266 L 183.5 101.266 L 183.5 101.024 L 182.044 101.024 Z"
+        fill="#fdd563"
+        fill-rule="evenodd"/>
+    <path
+        id="path_158"
+        d="M 182.044 101.024 L 183.5 101.024 L 183.5 100.782 L 182.044 100.782 Z"
+        fill="#fcd562"
+        fill-rule="evenodd"/>
+    <path
+        id="path_159"
+        d="M 182.044 100.782 L 183.5 100.782 L 183.5 100.54 L 182.044 100.54 Z"
+        fill="#fcd561"
+        fill-rule="evenodd"/>
+    <path
+        id="path_160"
+        d="M 182.044 100.539 L 183.5 100.539 L 183.5 100.297 L 182.044 100.297 Z"
+        fill="#fcd460"
+        fill-rule="evenodd"/>
+    <path
+        id="path_161"
+        d="M 182.044 100.297 L 183.5 100.297 L 183.5 100.055 L 182.044 100.055 Z"
+        fill="#fcd45f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_162"
+        d="M 182.044 100.055 L 183.5 100.055 L 183.5 99.813 L 182.044 99.813 Z"
+        fill="#fcd45e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_163"
+        d="M 182.044 99.812 L 183.5 99.812 L 183.5 99.57 L 182.044 99.57 Z"
+        fill="#fcd45d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_164"
+        d="M 182.044 99.57 L 183.5 99.57 L 183.5 99.328 L 182.044 99.328 Z"
+        fill="#fcd35c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_165"
+        d="M 182.044 99.328 L 183.5 99.328 L 183.5 99.086 L 182.044 99.086 Z"
+        fill="#fcd35b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_166"
+        d="M 182.044 99.087 L 183.5 99.087 L 183.5 98.844 L 182.044 98.844 Z"
+        fill="#fcd35a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_167"
+        d="M 182.044 98.844 L 183.5 98.844 L 183.5 98.602 L 182.044 98.602 Z"
+        fill="#fcd259"
+        fill-rule="evenodd"/>
+    <path
+        id="path_168"
+        d="M 182.044 98.602 L 183.5 98.602 L 183.5 98.36 L 182.044 98.36 Z"
+        fill="#fcd258"
+        fill-rule="evenodd"/>
+    <path
+        id="path_169"
+        d="M 182.044 98.36 L 183.5 98.36 L 183.5 98.118 L 182.044 98.118 Z"
+        fill="#fcd257"
+        fill-rule="evenodd"/>
+    <path
+        id="path_170"
+        d="M 182.044 98.117 L 183.5 98.117 L 183.5 97.876 L 182.044 97.876 Z"
+        fill="#fcd256"
+        fill-rule="evenodd"/>
+    <path
+        id="path_171"
+        d="M 182.044 97.875 L 183.5 97.875 L 183.5 97.633 L 182.044 97.633 Z"
+        fill="#fcd155"
+        fill-rule="evenodd"/>
+    <path
+        id="path_172"
+        d="M 182.044 97.633 L 183.5 97.633 L 183.5 97.391 L 182.044 97.391 Z"
+        fill="#fcd154"
+        fill-rule="evenodd"/>
+    <path
+        id="path_173"
+        d="M 182.044 97.391 L 183.5 97.391 L 183.5 97.149 L 182.044 97.149 Z"
+        fill="#fcd153"
+        fill-rule="evenodd"/>
+    <path
+        id="path_174"
+        d="M 182.044 97.149 L 183.5 97.149 L 183.5 96.907 L 182.044 96.907 Z"
+        fill="#fcd152"
+        fill-rule="evenodd"/>
+    <path
+        id="path_175"
+        d="M 182.044 96.907 L 183.5 96.907 L 183.5 96.665 L 182.044 96.665 Z"
+        fill="#fcd051"
+        fill-rule="evenodd"/>
+    <path
+        id="path_176"
+        d="M 182.044 96.665 L 183.5 96.665 L 183.5 96.423 L 182.044 96.423 Z"
+        fill="#fcd050"
+        fill-rule="evenodd"/>
+    <path
+        id="path_177"
+        d="M 182.044 96.423 L 183.5 96.423 L 183.5 96.18 L 182.044 96.18 Z"
+        fill="#fcd04f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_178"
+        d="M 182.044 96.18 L 183.5 96.18 L 183.5 95.938 L 182.044 95.938 Z"
+        fill="#fccf4e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_179"
+        d="M 182.044 95.938 L 183.5 95.938 L 183.5 95.696 L 182.044 95.696 Z"
+        fill="#fccf4d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_180"
+        d="M 182.044 95.696 L 183.5 95.696 L 183.5 95.454 L 182.044 95.454 Z"
+        fill="#fccf4c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_181"
+        d="M 182.044 95.454 L 183.5 95.454 L 183.5 95.212 L 182.044 95.212 Z"
+        fill="#fccf4b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_182"
+        d="M 182.044 95.212 L 183.5 95.212 L 183.5 94.97 L 182.044 94.97 Z"
+        fill="#fcce4a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_183"
+        d="M 182.044 94.97 L 183.5 94.97 L 183.5 94.728 L 182.044 94.728 Z"
+        fill="#fcce49"
+        fill-rule="evenodd"/>
+    <path
+        id="path_184"
+        d="M 182.044 94.727 L 183.5 94.727 L 183.5 94.485 L 182.044 94.485 Z"
+        fill="#fcce48"
+        fill-rule="evenodd"/>
+    <path
+        id="path_185"
+        d="M 182.044 94.485 L 183.5 94.485 L 183.5 94.243 L 182.044 94.243 Z"
+        fill="#fcce47"
+        fill-rule="evenodd"/>
+    <path
+        id="path_186"
+        d="M 182.044 94.243 L 183.5 94.243 L 183.5 94.001 L 182.044 94.001 Z"
+        fill="#fccd46"
+        fill-rule="evenodd"/>
+    <path
+        id="path_187"
+        d="M 182.044 94.001 L 183.5 94.001 L 183.5 93.759 L 182.044 93.759 Z"
+        fill="#fccd45"
+        fill-rule="evenodd"/>
+    <path
+        id="path_188"
+        d="M 182.044 93.759 L 183.5 93.759 L 183.5 93.517 L 182.044 93.517 Z"
+        fill="#fccd44"
+        fill-rule="evenodd"/>
+    <path
+        id="path_189"
+        d="M 182.044 93.517 L 183.5 93.517 L 183.5 93.275 L 182.044 93.275 Z"
+        fill="#fccc43"
+        fill-rule="evenodd"/>
+    <path
+        id="path_190"
+        d="M 182.044 93.275 L 183.5 93.275 L 183.5 93.033 L 182.044 93.033 Z"
+        fill="#fccc42"
+        fill-rule="evenodd"/>
+    <path
+        id="path_191"
+        d="M 182.044 93.033 L 183.5 93.033 L 183.5 92.791 L 182.044 92.791 Z"
+        fill="#fccc41"
+        fill-rule="evenodd"/>
+    <path
+        id="path_192"
+        d="M 182.044 92.79 L 183.5 92.79 L 183.5 92.548 L 182.044 92.548 Z"
+        fill="#fccc40"
+        fill-rule="evenodd"/>
+    <path
+        id="path_193"
+        d="M 182.044 92.548 L 183.5 92.548 L 183.5 92.306 L 182.044 92.306 Z"
+        fill="#fccb3f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_194"
+        d="M 182.044 92.306 L 183.5 92.306 L 183.5 92.064 L 182.044 92.064 Z"
+        fill="#fccb3e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_195"
+        d="M 182.044 92.064 L 183.5 92.064 L 183.5 91.822 L 182.044 91.822 Z"
+        fill="#fccb3d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_196"
+        d="M 182.044 91.821 L 183.5 91.821 L 183.5 91.579 L 182.044 91.579 Z"
+        fill="#fccb3c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_197"
+        d="M 182.044 91.579 L 183.5 91.579 L 183.5 91.337 L 182.044 91.337 Z"
+        fill="#fcca3b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_198"
+        d="M 182.044 91.337 L 183.5 91.337 L 183.5 91.095 L 182.044 91.095 Z"
+        fill="#fcca3a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_199"
+        d="M 182.044 91.095 L 183.5 91.095 L 183.5 90.853 L 182.044 90.853 Z"
+        fill="#fcca39"
+        fill-rule="evenodd"/>
+    <path
+        id="path_200"
+        d="M 182.044 90.853 L 183.5 90.853 L 183.5 90.611 L 182.044 90.611 Z"
+        fill="#fcca38"
+        fill-rule="evenodd"/>
+    <path
+        id="path_201"
+        d="M 182.044 90.611 L 183.5 90.611 L 183.5 90.369 L 182.044 90.369 Z"
+        fill="#fcc937"
+        fill-rule="evenodd"/>
+    <path
+        id="path_202"
+        d="M 182.044 90.369 L 183.5 90.369 L 183.5 90.127 L 182.044 90.127 Z"
+        fill="#fcc936"
+        fill-rule="evenodd"/>
+    <path
+        id="path_203"
+        d="M 182.044 90.127 L 183.5 90.127 L 183.5 89.885 L 182.044 89.885 Z"
+        fill="#fcc935"
+        fill-rule="evenodd"/>
+    <path
+        id="path_204"
+        d="M 182.044 89.884 L 183.5 89.884 L 183.5 89.642 L 182.044 89.642 Z"
+        fill="#fcc834"
+        fill-rule="evenodd"/>
+    <path
+        id="path_205"
+        d="M 182.044 89.642 L 183.5 89.642 L 183.5 89.4 L 182.044 89.4 Z"
+        fill="#fcc833"
+        fill-rule="evenodd"/>
+    <path
+        id="path_206"
+        d="M 182.044 89.4 L 183.5 89.4 L 183.5 89.158 L 182.044 89.158 Z"
+        fill="#fcc832"
+        fill-rule="evenodd"/>
+    <path
+        id="path_207"
+        d="M 182.044 89.158 L 183.5 89.158 L 183.5 88.916 L 182.044 88.916 Z"
+        fill="#fcc831"
+        fill-rule="evenodd"/>
+    <path
+        id="path_208"
+        d="M 182.044 88.917 L 183.5 88.917 L 183.5 88.674 L 182.044 88.674 Z"
+        fill="#fcc730"
+        fill-rule="evenodd"/>
+    <path
+        id="path_209"
+        d="M 182.044 88.674 L 183.5 88.674 L 183.5 88.432 L 182.044 88.432 Z"
+        fill="#fcc72f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_210"
+        d="M 182.044 88.432 L 183.5 88.432 L 183.5 88.19 L 182.044 88.19 Z"
+        fill="#fcc72e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_211"
+        d="M 182.044 88.19 L 183.5 88.19 L 183.5 87.947 L 182.044 87.947 Z"
+        fill="#fcc72d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_212"
+        d="M 182.044 87.947 L 183.5 87.947 L 183.5 87.705 L 182.044 87.705 Z"
+        fill="#fcc62c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_213"
+        d="M 182.044 87.705 L 183.5 87.705 L 183.5 87.463 L 182.044 87.463 Z"
+        fill="#fcc62b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_214"
+        d="M 182.044 87.463 L 183.5 87.463 L 183.5 87.221 L 182.044 87.221 Z"
+        fill="#fcc62a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_215"
+        d="M 182.044 87.22 L 183.5 87.22 L 183.5 86.978 L 182.044 86.978 Z"
+        fill="#fcc529"
+        fill-rule="evenodd"/>
+    <path
+        id="path_216"
+        d="M 182.044 86.979 L 183.5 86.979 L 183.5 86.737 L 182.044 86.737 Z"
+        fill="#fcc528"
+        fill-rule="evenodd"/>
+    <path
+        id="path_217"
+        d="M 182.044 86.737 L 183.5 86.737 L 183.5 86.494 L 182.044 86.494 Z"
+        fill="#fcc527"
+        fill-rule="evenodd"/>
+    <path
+        id="path_218"
+        d="M 182.044 86.494 L 183.5 86.494 L 183.5 86.252 L 182.044 86.252 Z"
+        fill="#fcc526"
+        fill-rule="evenodd"/>
+    <path
+        id="path_219"
+        d="M 182.044 86.252 L 183.5 86.252 L 183.5 86.01 L 182.044 86.01 Z"
+        fill="#fcc425"
+        fill-rule="evenodd"/>
+    <path
+        id="path_220"
+        d="M 182.044 86.01 L 183.5 86.01 L 183.5 85.768 L 182.044 85.768 Z"
+        fill="#fbc424"
+        fill-rule="evenodd"/>
+    <path
+        id="path_221"
+        d="M 182.044 85.767 L 183.5 85.767 L 183.5 85.526 L 182.044 85.526 Z"
+        fill="#fbc423"
+        fill-rule="evenodd"/>
+    <path
+        id="path_222"
+        d="M 182.044 85.526 L 183.5 85.526 L 183.5 85.284 L 182.044 85.284 Z"
+        fill="#fbc422"
+        fill-rule="evenodd"/>
+    <path
+        id="path_223"
+        d="M 182.044 85.283 L 183.5 85.283 L 183.5 85.041 L 182.044 85.041 Z"
+        fill="#fbc321"
+        fill-rule="evenodd"/>
+    <path
+        id="path_224"
+        d="M 182.044 85.042 L 183.5 85.042 L 183.5 84.8 L 182.044 84.8 Z"
+        fill="#fbc320"
+        fill-rule="evenodd"/>
+    <path
+        id="path_225"
+        d="M 182.044 84.799 L 183.5 84.799 L 183.5 84.557 L 182.044 84.557 Z"
+        fill="#fbc31f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_226"
+        d="M 182.044 84.557 L 183.5 84.557 L 183.5 84.315 L 182.044 84.315 Z"
+        fill="#fbc21e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_227"
+        d="M 182.044 84.315 L 183.5 84.315 L 183.5 84.073 L 182.044 84.073 Z"
+        fill="#fbc21d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_228"
+        d="M 182.044 84.073 L 183.5 84.073 L 183.5 83.83 L 182.044 83.83 Z"
+        fill="#fbc21c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_229"
+        d="M 182.044 83.83 L 183.5 83.83 L 183.5 83.588 L 182.044 83.588 Z"
+        fill="#fbc21b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_230"
+        d="M 182.044 83.588 L 183.5 83.588 L 183.5 83.347 L 182.044 83.347 Z"
+        fill="#fbc11a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_231"
+        d="M 182.044 83.347 L 183.5 83.347 L 183.5 83.104 L 182.044 83.104 Z"
+        fill="#fbc119"
+        fill-rule="evenodd"/>
+    <path
+        id="path_232"
+        d="M 182.044 83.104 L 183.5 83.104 L 183.5 82.862 L 182.044 82.862 Z"
+        fill="#fbc118"
+        fill-rule="evenodd"/>
+    <path
+        id="path_233"
+        d="M 182.044 82.862 L 183.5 82.862 L 183.5 82.62 L 182.044 82.62 Z"
+        fill="#fbc117"
+        fill-rule="evenodd"/>
+    <path
+        id="path_234"
+        d="M 182.044 82.62 L 183.5 82.62 L 183.5 82.378 L 182.044 82.378 Z"
+        fill="#fbc016"
+        fill-rule="evenodd"/>
+    <path
+        id="path_235"
+        d="M 182.044 82.377 L 183.5 82.377 L 183.5 82.136 L 182.044 82.136 Z"
+        fill="#fbc015"
+        fill-rule="evenodd"/>
+    <path
+        id="path_236"
+        d="M 182.044 82.135 L 183.5 82.135 L 183.5 81.893 L 182.044 81.893 Z"
+        fill="#fbc014"
+        fill-rule="evenodd"/>
+    <path
+        id="path_237"
+        d="M 182.044 81.893 L 183.5 81.893 L 183.5 81.651 L 182.044 81.651 Z"
+        fill="#fbc013"
+        fill-rule="evenodd"/>
+    <path
+        id="path_238"
+        d="M 182.044 81.651 L 183.5 81.651 L 183.5 81.409 L 182.044 81.409 Z"
+        fill="#fbbf12"
+        fill-rule="evenodd"/>
+    <path
+        id="path_239"
+        d="M 182.044 81.409 L 183.5 81.409 L 183.5 81.167 L 182.044 81.167 Z"
+        fill="#fbbf11"
+        fill-rule="evenodd"/>
+    <path
+        id="path_240"
+        d="M 182.044 81.167 L 183.5 81.167 L 183.5 80.925 L 182.044 80.925 Z"
+        fill="#fbbf10"
+        fill-rule="evenodd"/>
+    <path
+        id="path_241"
+        d="M 182.044 80.925 L 183.5 80.925 L 183.5 80.683 L 182.044 80.683 Z"
+        fill="#fbbe0f"
+        fill-rule="evenodd"/>
+    <path
+        id="path_242"
+        d="M 182.044 80.683 L 183.5 80.683 L 183.5 80.441 L 182.044 80.441 Z"
+        fill="#fbbe0e"
+        fill-rule="evenodd"/>
+    <path
+        id="path_243"
+        d="M 182.044 80.441 L 183.5 80.441 L 183.5 80.199 L 182.044 80.199 Z"
+        fill="#fbbe0d"
+        fill-rule="evenodd"/>
+    <path
+        id="path_244"
+        d="M 182.044 80.199 L 183.5 80.199 L 183.5 79.957 L 182.044 79.957 Z"
+        fill="#fbbe0c"
+        fill-rule="evenodd"/>
+    <path
+        id="path_245"
+        d="M 182.044 79.956 L 183.5 79.956 L 183.5 79.714 L 182.044 79.714 Z"
+        fill="#fbbd0b"
+        fill-rule="evenodd"/>
+    <path
+        id="path_246"
+        d="M 182.044 79.714 L 183.5 79.714 L 183.5 79.472 L 182.044 79.472 Z"
+        fill="#fbbd0a"
+        fill-rule="evenodd"/>
+    <path
+        id="path_247"
+        d="M 182.044 79.472 L 183.5 79.472 L 183.5 79.23 L 182.044 79.23 Z"
+        fill="#fbbd09"
+        fill-rule="evenodd"/>
+    <path
+        id="path_248"
+        d="M 182.044 79.229 L 183.5 79.229 L 183.5 78.987 L 182.044 78.987 Z"
+        fill="#fbbd08"
+        fill-rule="evenodd"/>
+    <path
+        id="path_249"
+        d="M 182.044 78.987 L 183.5 78.987 L 183.5 78.747 L 182.044 78.747 Z"
+        fill="#fbbc07"
+        fill-rule="evenodd"/>
+    <path
+        id="path_250"
+        d="M 182.044 78.745 L 183.5 78.745 L 183.5 78.503 L 182.044 78.503 Z M 182.043 78.503 L 183.499 78.503 L 183.499 56.48 L 182.043 56.48 Z"
+        fill="#fbbc06"
+        fill-rule="evenodd"/>
+    <path
+        id="path_251"
+        d="M 283.706 168.579 C 263.518 148.409 252.37 121.579 252.316 93.031 L 252.314 92.535 L 244.608 92.535 L 244.608 93.032 C 244.608 127.158 216.868 154.922 182.771 154.922 C 148.675 154.922 120.935 127.158 120.935 93.032 L 120.935 92.535 L 113.229 92.535 L 113.228 93.031 C 113.173 121.579 102.026 148.408 81.838 168.579 C 61.646 188.752 34.814 199.861 6.284 199.861 L 6.284 200.855 L 359.26 200.855 L 359.26 199.861 C 330.73 199.861 303.898 188.751 283.707 168.579"
+        fill="#ceead5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_252"
+        d="M 323.9 200.844 L 359.753 200.844 L 359.753 178.58 L 323.9 178.58 Z"
+        fill="#4284f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_253"
+        d="M 80.83 65.788 C 74.272 59.224 63.64 59.224 57.082 65.788 L 57.081 65.788 C 50.523 72.351 50.523 82.993 57.081 89.557 L 68.956 101.442 L 80.83 89.557 C 87.388 82.993 87.388 72.351 80.83 65.787"
+        fill="#ad62f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_254"
+        d="M 68.228 154.917 L 69.684 154.917 L 69.684 143.289 L 68.228 143.289 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_255"
+        d="M 68.228 143.29 L 69.684 143.29 L 69.684 143.051 L 68.228 143.051 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_256"
+        d="M 68.228 143.052 L 69.684 143.052 L 69.684 142.814 L 68.228 142.814 Z"
+        fill="#fefeff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_257"
+        d="M 68.228 142.815 L 69.684 142.815 L 69.684 142.577 L 68.228 142.577 Z"
+        fill="#fefdff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_258"
+        d="M 68.228 142.577 L 69.684 142.577 L 69.684 142.339 L 68.228 142.339 Z"
+        fill="#fdfcff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_259"
+        d="M 68.228 142.339 L 69.684 142.339 L 69.684 142.101 L 68.228 142.101 Z"
+        fill="#fdfbff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_260"
+        d="M 68.228 142.101 L 69.684 142.101 L 69.684 141.864 L 68.228 141.864 Z"
+        fill="#fcfaff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_261"
+        d="M 68.228 141.864 L 69.684 141.864 L 69.684 141.626 L 68.228 141.626 Z"
+        fill="#fcf9ff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_262"
+        d="M 68.228 141.626 L 69.684 141.626 L 69.684 141.389 L 68.228 141.389 Z"
+        fill="#fbf8ff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_263"
+        d="M 68.228 141.389 L 69.684 141.389 L 69.684 141.151 L 68.228 141.151 Z"
+        fill="#fbf7fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_264"
+        d="M 68.228 141.151 L 69.684 141.151 L 69.684 140.914 L 68.228 140.914 Z"
+        fill="#faf6fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_265"
+        d="M 68.228 140.914 L 69.684 140.914 L 69.684 140.676 L 68.228 140.676 Z"
+        fill="#faf5fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_266"
+        d="M 68.228 140.676 L 69.684 140.676 L 69.684 140.438 L 68.228 140.438 Z"
+        fill="#f9f4fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_267"
+        d="M 68.228 140.438 L 69.684 140.438 L 69.684 140.2 L 68.228 140.2 Z"
+        fill="#f9f3fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_268"
+        d="M 68.228 140.201 L 69.684 140.201 L 69.684 139.963 L 68.228 139.963 Z"
+        fill="#f8f2fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_269"
+        d="M 68.228 139.963 L 69.684 139.963 L 69.684 139.725 L 68.228 139.725 Z"
+        fill="#f8f1fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_270"
+        d="M 68.228 139.726 L 69.684 139.726 L 69.684 139.488 L 68.228 139.488 Z"
+        fill="#f7f0fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_271"
+        d="M 68.228 139.488 L 69.684 139.488 L 69.684 139.251 L 68.228 139.251 Z"
+        fill="#f7effe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_272"
+        d="M 68.228 139.251 L 69.684 139.251 L 69.684 139.013 L 68.228 139.013 Z"
+        fill="#f6eefe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_273"
+        d="M 68.228 139.013 L 69.684 139.013 L 69.684 138.775 L 68.228 138.775 Z"
+        fill="#f6edfe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_274"
+        d="M 68.228 138.776 L 69.684 138.776 L 69.684 138.538 L 68.228 138.538 Z"
+        fill="#f5ecfe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_275"
+        d="M 68.228 138.538 L 69.684 138.538 L 69.684 138.3 L 68.228 138.3 Z"
+        fill="#f4ebfe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_276"
+        d="M 68.228 138.3 L 69.684 138.3 L 69.684 138.062 L 68.228 138.062 Z"
+        fill="#f4eafe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_277"
+        d="M 68.228 138.063 L 69.684 138.063 L 69.684 137.825 L 68.228 137.825 Z"
+        fill="#f3e9fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_278"
+        d="M 68.228 137.825 L 69.684 137.825 L 69.684 137.587 L 68.228 137.587 Z"
+        fill="#f3e8fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_279"
+        d="M 68.228 137.588 L 69.684 137.588 L 69.684 137.35 L 68.228 137.35 Z"
+        fill="#f2e7fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_280"
+        d="M 68.228 137.35 L 69.684 137.35 L 69.684 137.112 L 68.228 137.112 Z"
+        fill="#f2e6fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_281"
+        d="M 68.228 137.112 L 69.684 137.112 L 69.684 136.875 L 68.228 136.875 Z"
+        fill="#f1e5fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_282"
+        d="M 68.228 136.875 L 69.684 136.875 L 69.684 136.637 L 68.228 136.637 Z"
+        fill="#f1e4fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_283"
+        d="M 68.228 136.637 L 69.684 136.637 L 69.684 136.4 L 68.228 136.4 Z"
+        fill="#f0e3fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_284"
+        d="M 68.228 136.4 L 69.684 136.4 L 69.684 136.161 L 68.228 136.161 Z"
+        fill="#f0e2fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_285"
+        d="M 68.228 136.162 L 69.684 136.162 L 69.684 135.924 L 68.228 135.924 Z"
+        fill="#efe1fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_286"
+        d="M 68.228 135.924 L 69.684 135.924 L 69.684 135.686 L 68.228 135.686 Z"
+        fill="#efe0fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_287"
+        d="M 68.228 135.687 L 69.684 135.687 L 69.684 135.449 L 68.228 135.449 Z"
+        fill="#eedffd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_288"
+        d="M 68.228 135.449 L 69.684 135.449 L 69.684 135.211 L 68.228 135.211 Z"
+        fill="#eedefd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_289"
+        d="M 68.228 135.211 L 69.684 135.211 L 69.684 134.974 L 68.228 134.974 Z"
+        fill="#edddfd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_290"
+        d="M 68.228 134.974 L 69.684 134.974 L 69.684 134.736 L 68.228 134.736 Z"
+        fill="#eddcfd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_291"
+        d="M 68.228 134.737 L 69.684 134.737 L 69.684 134.499 L 68.228 134.499 Z"
+        fill="#ecdbfc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_292"
+        d="M 68.228 134.499 L 69.684 134.499 L 69.684 134.261 L 68.228 134.261 Z"
+        fill="#ecdafc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_293"
+        d="M 68.228 134.261 L 69.684 134.261 L 69.684 134.024 L 68.228 134.024 Z"
+        fill="#ebd9fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_294"
+        d="M 68.228 134.024 L 69.684 134.024 L 69.684 133.786 L 68.228 133.786 Z"
+        fill="#ebd8fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_295"
+        d="M 68.228 133.786 L 69.684 133.786 L 69.684 133.548 L 68.228 133.548 Z"
+        fill="#ead7fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_296"
+        d="M 68.228 133.549 L 69.684 133.549 L 69.684 133.311 L 68.228 133.311 Z"
+        fill="#e9d6fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_297"
+        d="M 68.228 133.311 L 69.684 133.311 L 69.684 133.073 L 68.228 133.073 Z"
+        fill="#e9d5fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_298"
+        d="M 68.228 133.074 L 69.684 133.074 L 69.684 132.836 L 68.228 132.836 Z"
+        fill="#e8d4fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_299"
+        d="M 68.228 132.836 L 69.684 132.836 L 69.684 132.598 L 68.228 132.598 Z"
+        fill="#e8d3fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_300"
+        d="M 68.228 132.599 L 69.684 132.599 L 69.684 132.361 L 68.228 132.361 Z"
+        fill="#e7d2fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_301"
+        d="M 68.228 132.361 L 69.684 132.361 L 69.684 132.123 L 68.228 132.123 Z"
+        fill="#e7d1fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_302"
+        d="M 68.228 132.123 L 69.684 132.123 L 69.684 131.885 L 68.228 131.885 Z"
+        fill="#e6d0fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_303"
+        d="M 68.228 131.885 L 69.684 131.885 L 69.684 131.647 L 68.228 131.647 Z"
+        fill="#e6cffc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_304"
+        d="M 68.228 131.648 L 69.684 131.648 L 69.684 131.41 L 68.228 131.41 Z"
+        fill="#e5cefc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_305"
+        d="M 68.228 131.411 L 69.684 131.411 L 69.684 131.172 L 68.228 131.172 Z"
+        fill="#e5cdfb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_306"
+        d="M 68.228 131.173 L 69.684 131.173 L 69.684 130.935 L 68.228 130.935 Z"
+        fill="#e4ccfb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_307"
+        d="M 68.228 130.935 L 69.684 130.935 L 69.684 130.697 L 68.228 130.697 Z"
+        fill="#e4cbfb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_308"
+        d="M 68.228 130.698 L 69.684 130.698 L 69.684 130.46 L 68.228 130.46 Z"
+        fill="#e3cafb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_309"
+        d="M 68.228 130.461 L 69.684 130.461 L 69.684 130.222 L 68.228 130.222 Z"
+        fill="#e3c9fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_310"
+        d="M 68.228 130.223 L 69.684 130.223 L 69.684 129.985 L 68.228 129.985 Z"
+        fill="#e2c8fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_311"
+        d="M 68.228 129.985 L 69.684 129.985 L 69.684 129.747 L 68.228 129.747 Z"
+        fill="#e2c7fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_312"
+        d="M 68.228 129.747 L 69.684 129.747 L 69.684 129.51 L 68.228 129.51 Z"
+        fill="#e1c6fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_313"
+        d="M 68.228 129.51 L 69.684 129.51 L 69.684 129.272 L 68.228 129.272 Z"
+        fill="#e1c5fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_314"
+        d="M 68.228 129.271 L 69.684 129.271 L 69.684 129.034 L 68.228 129.034 Z"
+        fill="#e0c4fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_315"
+        d="M 68.228 129.035 L 69.684 129.035 L 69.684 128.797 L 68.228 128.797 Z"
+        fill="#dfc3fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_316"
+        d="M 68.228 128.797 L 69.684 128.797 L 69.684 128.559 L 68.228 128.559 Z"
+        fill="#dfc2fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_317"
+        d="M 68.228 128.56 L 69.684 128.56 L 69.684 128.322 L 68.228 128.322 Z"
+        fill="#dec1fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_318"
+        d="M 68.228 128.321 L 69.684 128.321 L 69.684 128.084 L 68.228 128.084 Z"
+        fill="#dec0fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_319"
+        d="M 68.228 128.085 L 69.684 128.085 L 69.684 127.846 L 68.228 127.846 Z"
+        fill="#ddbffa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_320"
+        d="M 68.228 127.846 L 69.684 127.846 L 69.684 127.609 L 68.228 127.609 Z"
+        fill="#ddbefa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_321"
+        d="M 68.228 127.609 L 69.684 127.609 L 69.684 127.371 L 68.228 127.371 Z"
+        fill="#dcbdfa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_322"
+        d="M 68.228 127.371 L 69.684 127.371 L 69.684 127.134 L 68.228 127.134 Z"
+        fill="#dcbcfa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_323"
+        d="M 68.228 127.134 L 69.684 127.134 L 69.684 126.896 L 68.228 126.896 Z"
+        fill="#dbbbfa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_324"
+        d="M 68.228 126.896 L 69.684 126.896 L 69.684 126.659 L 68.228 126.659 Z"
+        fill="#dbbafa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_325"
+        d="M 68.228 126.659 L 69.684 126.659 L 69.684 126.421 L 68.228 126.421 Z"
+        fill="#dab9fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_326"
+        d="M 68.228 126.421 L 69.684 126.421 L 69.684 126.184 L 68.228 126.184 Z"
+        fill="#dab8fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_327"
+        d="M 68.228 126.184 L 69.684 126.184 L 69.684 125.946 L 68.228 125.946 Z"
+        fill="#d9b7fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_328"
+        d="M 68.228 125.946 L 69.684 125.946 L 69.684 125.708 L 68.228 125.708 Z"
+        fill="#d9b6fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_329"
+        d="M 68.228 125.708 L 69.684 125.708 L 69.684 125.471 L 68.228 125.471 Z"
+        fill="#d8b5fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_330"
+        d="M 68.228 125.471 L 69.684 125.471 L 69.684 125.233 L 68.228 125.233 Z"
+        fill="#d8b4fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_331"
+        d="M 68.228 125.233 L 69.684 125.233 L 69.684 124.996 L 68.228 124.996 Z"
+        fill="#d7b3fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_332"
+        d="M 68.228 124.995 L 69.684 124.995 L 69.684 124.758 L 68.228 124.758 Z"
+        fill="#d7b2fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_333"
+        d="M 68.228 124.758 L 69.684 124.758 L 69.684 124.52 L 68.228 124.52 Z"
+        fill="#d6b1fa"
+        fill-rule="evenodd"/>
+    <path
+        id="path_334"
+        d="M 68.228 124.521 L 69.684 124.521 L 69.684 124.283 L 68.228 124.283 Z"
+        fill="#d5aff9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_335"
+        d="M 68.228 124.283 L 69.684 124.283 L 69.684 124.045 L 68.228 124.045 Z"
+        fill="#d5aef9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_336"
+        d="M 68.228 124.045 L 69.684 124.045 L 69.684 123.807 L 68.228 123.807 Z"
+        fill="#d4adf9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_337"
+        d="M 68.228 123.807 L 69.684 123.807 L 69.684 123.57 L 68.228 123.57 Z"
+        fill="#d4acf9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_338"
+        d="M 68.228 123.57 L 69.684 123.57 L 69.684 123.332 L 68.228 123.332 Z"
+        fill="#d3abf9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_339"
+        d="M 68.228 123.333 L 69.684 123.333 L 69.684 123.095 L 68.228 123.095 Z"
+        fill="#d3aaf9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_340"
+        d="M 68.228 123.095 L 69.684 123.095 L 69.684 122.857 L 68.228 122.857 Z"
+        fill="#d2a9f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_341"
+        d="M 68.228 122.857 L 69.684 122.857 L 69.684 122.62 L 68.228 122.62 Z"
+        fill="#d2a8f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_342"
+        d="M 68.228 122.62 L 69.684 122.62 L 69.684 122.382 L 68.228 122.382 Z"
+        fill="#d1a7f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_343"
+        d="M 68.228 122.382 L 69.684 122.382 L 69.684 122.145 L 68.228 122.145 Z"
+        fill="#d1a6f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_344"
+        d="M 68.228 122.145 L 69.684 122.145 L 69.684 121.907 L 68.228 121.907 Z"
+        fill="#d0a5f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_345"
+        d="M 68.228 121.907 L 69.684 121.907 L 69.684 121.669 L 68.228 121.669 Z"
+        fill="#d0a4f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_346"
+        d="M 68.228 121.669 L 69.684 121.669 L 69.684 121.432 L 68.228 121.432 Z"
+        fill="#cfa3f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_347"
+        d="M 68.228 121.431 L 69.684 121.431 L 69.684 121.194 L 68.228 121.194 Z"
+        fill="#cfa2f9"
+        fill-rule="evenodd"/>
+    <path
+        id="path_348"
+        d="M 68.228 121.194 L 69.684 121.194 L 69.684 120.957 L 68.228 120.957 Z"
+        fill="#cea1f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_349"
+        d="M 68.228 120.957 L 69.684 120.957 L 69.684 120.719 L 68.228 120.719 Z"
+        fill="#cea0f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_350"
+        d="M 68.228 120.719 L 69.684 120.719 L 69.684 120.482 L 68.228 120.482 Z"
+        fill="#cd9ff8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_351"
+        d="M 68.228 120.481 L 69.684 120.481 L 69.684 120.244 L 68.228 120.244 Z"
+        fill="#cd9ef8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_352"
+        d="M 68.228 120.244 L 69.684 120.244 L 69.684 120.006 L 68.228 120.006 Z"
+        fill="#cc9df8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_353"
+        d="M 68.228 120.006 L 69.684 120.006 L 69.684 119.769 L 68.228 119.769 Z"
+        fill="#cb9cf8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_354"
+        d="M 68.228 119.769 L 69.684 119.769 L 69.684 119.531 L 68.228 119.531 Z"
+        fill="#cb9bf8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_355"
+        d="M 68.228 119.531 L 69.684 119.531 L 69.684 119.293 L 68.228 119.293 Z"
+        fill="#ca9af8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_356"
+        d="M 68.228 119.293 L 69.684 119.293 L 69.684 119.056 L 68.228 119.056 Z"
+        fill="#ca99f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_357"
+        d="M 68.228 119.056 L 69.684 119.056 L 69.684 118.818 L 68.228 118.818 Z"
+        fill="#c998f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_358"
+        d="M 68.228 118.818 L 69.684 118.818 L 69.684 118.581 L 68.228 118.581 Z"
+        fill="#c997f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_359"
+        d="M 68.228 118.581 L 69.684 118.581 L 69.684 118.343 L 68.228 118.343 Z"
+        fill="#c896f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_360"
+        d="M 68.228 118.343 L 69.684 118.343 L 69.684 118.106 L 68.228 118.106 Z"
+        fill="#c895f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_361"
+        d="M 68.228 118.106 L 69.684 118.106 L 69.684 117.868 L 68.228 117.868 Z"
+        fill="#c794f8"
+        fill-rule="evenodd"/>
+    <path
+        id="path_362"
+        d="M 68.228 117.868 L 69.684 117.868 L 69.684 117.63 L 68.228 117.63 Z"
+        fill="#c793f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_363"
+        d="M 68.228 117.631 L 69.684 117.631 L 69.684 117.393 L 68.228 117.393 Z"
+        fill="#c692f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_364"
+        d="M 68.228 117.393 L 69.684 117.393 L 69.684 117.155 L 68.228 117.155 Z"
+        fill="#c691f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_365"
+        d="M 68.228 117.155 L 69.684 117.155 L 69.684 116.918 L 68.228 116.918 Z"
+        fill="#c590f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_366"
+        d="M 68.228 116.918 L 69.684 116.918 L 69.684 116.68 L 68.228 116.68 Z"
+        fill="#c58ff7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_367"
+        d="M 68.228 116.681 L 69.684 116.681 L 69.684 116.443 L 68.228 116.443 Z"
+        fill="#c48ef7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_368"
+        d="M 68.228 116.443 L 69.684 116.443 L 69.684 116.205 L 68.228 116.205 Z"
+        fill="#c48df7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_369"
+        d="M 68.228 116.205 L 69.684 116.205 L 69.684 115.968 L 68.228 115.968 Z"
+        fill="#c38cf7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_370"
+        d="M 68.228 115.967 L 69.684 115.967 L 69.684 115.73 L 68.228 115.73 Z"
+        fill="#c38bf7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_371"
+        d="M 68.228 115.73 L 69.684 115.73 L 69.684 115.492 L 68.228 115.492 Z"
+        fill="#c28af7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_372"
+        d="M 68.228 115.492 L 69.684 115.492 L 69.684 115.254 L 68.228 115.254 Z"
+        fill="#c289f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_373"
+        d="M 68.228 115.254 L 69.684 115.254 L 69.684 115.017 L 68.228 115.017 Z"
+        fill="#c188f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_374"
+        d="M 68.228 115.017 L 69.684 115.017 L 69.684 114.779 L 68.228 114.779 Z"
+        fill="#c087f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_375"
+        d="M 68.228 114.779 L 69.684 114.779 L 69.684 114.542 L 68.228 114.542 Z"
+        fill="#c086f7"
+        fill-rule="evenodd"/>
+    <path
+        id="path_376"
+        d="M 68.228 114.541 L 69.684 114.541 L 69.684 114.304 L 68.228 114.304 Z"
+        fill="#bf85f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_377"
+        d="M 68.228 114.304 L 69.684 114.304 L 69.684 114.067 L 68.228 114.067 Z"
+        fill="#bf84f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_378"
+        d="M 68.228 114.067 L 69.684 114.067 L 69.684 113.829 L 68.228 113.829 Z"
+        fill="#be83f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_379"
+        d="M 68.228 113.829 L 69.684 113.829 L 69.684 113.592 L 68.228 113.592 Z"
+        fill="#be82f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_380"
+        d="M 68.228 113.591 L 69.684 113.591 L 69.684 113.354 L 68.228 113.354 Z"
+        fill="#bd81f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_381"
+        d="M 68.228 113.354 L 69.684 113.354 L 69.684 113.116 L 68.228 113.116 Z"
+        fill="#bd80f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_382"
+        d="M 68.228 113.116 L 69.684 113.116 L 69.684 112.879 L 68.228 112.879 Z"
+        fill="#bc7ff6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_383"
+        d="M 68.228 112.879 L 69.684 112.879 L 69.684 112.641 L 68.228 112.641 Z"
+        fill="#bc7ef6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_384"
+        d="M 68.228 112.641 L 69.684 112.641 L 69.684 112.404 L 68.228 112.404 Z"
+        fill="#bb7df6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_385"
+        d="M 68.228 112.404 L 69.684 112.404 L 69.684 112.166 L 68.228 112.166 Z"
+        fill="#bb7cf6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_386"
+        d="M 68.228 112.166 L 69.684 112.166 L 69.684 111.929 L 68.228 111.929 Z"
+        fill="#ba7bf6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_387"
+        d="M 68.228 111.929 L 69.684 111.929 L 69.684 111.691 L 68.228 111.691 Z"
+        fill="#ba7af6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_388"
+        d="M 68.228 111.691 L 69.684 111.691 L 69.684 111.453 L 68.228 111.453 Z"
+        fill="#b979f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_389"
+        d="M 68.228 111.453 L 69.684 111.453 L 69.684 111.215 L 68.228 111.215 Z"
+        fill="#b978f6"
+        fill-rule="evenodd"/>
+    <path
+        id="path_390"
+        d="M 68.228 111.215 L 69.684 111.215 L 69.684 110.978 L 68.228 110.978 Z"
+        fill="#b877f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_391"
+        d="M 68.228 110.978 L 69.684 110.978 L 69.684 110.74 L 68.228 110.74 Z"
+        fill="#b876f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_392"
+        d="M 68.228 110.741 L 69.684 110.741 L 69.684 110.503 L 68.228 110.503 Z"
+        fill="#b775f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_393"
+        d="M 68.228 110.503 L 69.684 110.503 L 69.684 110.265 L 68.228 110.265 Z"
+        fill="#b674f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_394"
+        d="M 68.228 110.265 L 69.684 110.265 L 69.684 110.028 L 68.228 110.028 Z"
+        fill="#b673f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_395"
+        d="M 68.228 110.028 L 69.684 110.028 L 69.684 109.79 L 68.228 109.79 Z"
+        fill="#b572f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_396"
+        d="M 68.228 109.791 L 69.684 109.791 L 69.684 109.553 L 68.228 109.553 Z"
+        fill="#b571f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_397"
+        d="M 68.228 109.553 L 69.684 109.553 L 69.684 109.315 L 68.228 109.315 Z"
+        fill="#b470f5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_398"
+        d="M 68.228 109.315 L 69.684 109.315 L 69.684 109.077 L 68.228 109.077 Z"
+        fill="#b46ff5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_399"
+        d="M 68.228 109.077 L 69.684 109.077 L 69.684 108.841 L 68.228 108.841 Z"
+        fill="#b36ef5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_400"
+        d="M 68.228 108.84 L 69.684 108.84 L 69.684 108.601 L 68.228 108.601 Z"
+        fill="#b36df5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_401"
+        d="M 68.228 108.602 L 69.684 108.602 L 69.684 108.365 L 68.228 108.365 Z"
+        fill="#b26cf5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_402"
+        d="M 68.228 108.365 L 69.684 108.365 L 69.684 108.127 L 68.228 108.127 Z"
+        fill="#b26bf5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_403"
+        d="M 68.228 108.127 L 69.684 108.127 L 69.684 107.891 L 68.228 107.891 Z"
+        fill="#b16af5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_404"
+        d="M 68.228 107.89 L 69.684 107.89 L 69.684 107.651 L 68.228 107.651 Z"
+        fill="#b169f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_405"
+        d="M 68.228 107.652 L 69.684 107.652 L 69.684 107.415 L 68.228 107.415 Z"
+        fill="#b068f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_406"
+        d="M 68.228 107.415 L 69.684 107.415 L 69.684 107.177 L 68.228 107.177 Z"
+        fill="#b067f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_407"
+        d="M 68.228 107.177 L 69.684 107.177 L 69.684 106.939 L 68.228 106.939 Z"
+        fill="#af66f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_408"
+        d="M 68.228 106.939 L 69.684 106.939 L 69.684 106.702 L 68.228 106.702 Z"
+        fill="#af65f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_409"
+        d="M 68.228 106.701 L 69.684 106.701 L 69.684 106.464 L 68.228 106.464 Z"
+        fill="#ae64f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_410"
+        d="M 68.228 106.464 L 69.684 106.464 L 69.684 106.227 L 68.228 106.227 Z"
+        fill="#ae63f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_411"
+        d="M 68.228 106.227 L 69.684 106.227 L 69.684 105.989 L 68.228 105.989 Z M 68.228 105.989 L 69.684 105.989 L 69.684 104.986 L 68.229 104.986 Z"
+        fill="#ad62f4"
+        fill-rule="evenodd"/>
+    <path
+        id="path_412"
+        d="M 122.88 218.881 C 122.086 189.239 97.83 165.455 68.023 165.455 C 38.216 165.455 13.959 189.239 13.165 218.881 L 122.88 218.881 Z"
+        fill="#ffffff"
+        stroke="#4284f4"
+        stroke-width="3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_413"
+        d="M 111.73 95.029 L 111.73 84.637 L 122.435 84.637 L 122.435 95.029 L 111.73 95.029 Z M 243.73 95.029 L 243.73 84.637 L 254.435 84.637 L 254.435 95.029 L 243.73 95.029 Z"
+        fill="#00000000"
+        stroke="#34a852"
+        stroke-width="3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_414"
+        d="M 264.045 236.12 L 240.754 236.12 L 251.609 193.946 C 251.82 193.129 252.979 193.129 253.189 193.946 L 264.045 236.121 Z"
+        fill="#34a852"
+        fill-rule="evenodd"/>
+    <path
+        id="path_415"
+        d="M 279.968 218.264 L 287.771 248.579 L 272.165 248.579 L 279.968 218.264"
+        fill="#00000000"
+        stroke="#34a852"
+        stroke-width="3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_416"
+        d="M 253.804 236.12 C 253.804 213.014 235.089 194.282 212.001 194.282 C 188.915 194.282 170.2 213.014 170.2 236.121 L 253.804 236.121 Z"
+        fill="#78d9ec"
+        fill-rule="evenodd"/>
+    <path
+        id="path_417"
+        d="M 23.291 220.381 L 0 220.381 L 10.856 178.207 C 11.066 177.39 12.226 177.39 12.436 178.207 L 23.29 220.38 Z"
+        fill="#ceead5"
+        fill-rule="evenodd"/>
+    <path
+        id="path_418"
+        d="M 82.409 50.84 L 55.502 50.84 C 54.103 50.839 52.76 50.282 51.77 49.292 C 50.781 48.303 50.225 46.959 50.225 45.56 C 50.224 44.633 50.468 43.723 50.931 42.92 C 51.394 42.117 52.06 41.45 52.862 40.986 C 53.665 40.523 54.575 40.278 55.502 40.278 L 82.41 40.278 C 83.337 40.278 84.247 40.523 85.049 40.986 C 85.852 41.45 86.518 42.117 86.981 42.919 C 87.444 43.722 87.687 44.632 87.687 45.559 C 87.688 46.959 87.132 48.303 86.142 49.293 C 85.153 50.283 83.81 50.84 82.41 50.841"
+        fill="#ededed"
+        fill-rule="evenodd"/>
+    <path
+        id="path_419"
+        d="M 305.839 63.397 C 304.724 62.28 303.334 61.477 301.81 61.068 C 300.286 60.66 298.68 60.66 297.156 61.068 C 295.632 61.477 294.242 62.28 293.127 63.397 C 289.616 66.91 289.616 72.607 293.127 76.12 L 299.482 82.481 L 305.839 76.12 C 309.349 72.606 309.349 66.91 305.839 63.397"
+        fill="#e9d2fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_420"
+        d="M 298.755 144.418 L 300.211 144.418 L 300.211 142.132 L 298.755 142.132 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_421"
+        d="M 298.755 142.132 L 300.211 142.132 L 300.211 141 L 298.755 141 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_422"
+        d="M 298.755 140.998 L 300.211 140.998 L 300.211 139.865 L 298.755 139.865 Z"
+        fill="#fffeff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_423"
+        d="M 298.755 139.865 L 300.211 139.865 L 300.211 138.733 L 298.755 138.733 Z"
+        fill="#fefdff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_424"
+        d="M 298.755 138.733 L 300.211 138.733 L 300.211 137.6 L 298.755 137.6 Z"
+        fill="#fefcff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_425"
+        d="M 298.755 137.6 L 300.211 137.6 L 300.211 136.466 L 298.755 136.466 Z"
+        fill="#fdfbff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_426"
+        d="M 298.755 136.466 L 300.211 136.466 L 300.211 135.333 L 298.755 135.333 Z"
+        fill="#fdfaff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_427"
+        d="M 298.755 135.333 L 300.211 135.333 L 300.211 134.2 L 298.755 134.2 Z"
+        fill="#fcf9fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_428"
+        d="M 298.755 134.2 L 300.211 134.2 L 300.211 133.067 L 298.755 133.067 Z"
+        fill="#fcf8fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_429"
+        d="M 298.755 133.067 L 300.211 133.067 L 300.211 131.933 L 298.755 131.933 Z"
+        fill="#fbf7fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_430"
+        d="M 298.755 131.933 L 300.211 131.933 L 300.211 130.8 L 298.755 130.8 Z"
+        fill="#fbf6fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_431"
+        d="M 298.755 130.8 L 300.211 130.8 L 300.211 129.667 L 298.755 129.667 Z"
+        fill="#faf5fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_432"
+        d="M 298.755 129.667 L 300.211 129.667 L 300.211 128.534 L 298.755 128.534 Z"
+        fill="#faf4fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_433"
+        d="M 298.755 128.534 L 300.211 128.534 L 300.211 127.4 L 298.755 127.4 Z"
+        fill="#f9f3fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_434"
+        d="M 298.755 127.4 L 300.211 127.4 L 300.211 126.267 L 298.755 126.267 Z"
+        fill="#f9f2fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_435"
+        d="M 298.755 126.267 L 300.211 126.267 L 300.211 125.134 L 298.755 125.134 Z"
+        fill="#f8f1fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_436"
+        d="M 298.755 125.134 L 300.211 125.134 L 300.211 124.001 L 298.755 124.001 Z"
+        fill="#f8f0fe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_437"
+        d="M 298.755 124.001 L 300.211 124.001 L 300.211 122.868 L 298.755 122.868 Z"
+        fill="#f7effe"
+        fill-rule="evenodd"/>
+    <path
+        id="path_438"
+        d="M 298.755 122.868 L 300.211 122.868 L 300.211 121.735 L 298.755 121.735 Z"
+        fill="#f7eefd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_439"
+        d="M 298.755 121.735 L 300.211 121.735 L 300.211 120.602 L 298.755 120.602 Z"
+        fill="#f6edfd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_440"
+        d="M 298.755 120.601 L 300.211 120.601 L 300.211 119.468 L 298.755 119.468 Z"
+        fill="#f6ecfd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_441"
+        d="M 298.755 119.468 L 300.211 119.468 L 300.211 118.335 L 298.755 118.335 Z"
+        fill="#f5ebfd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_442"
+        d="M 298.755 118.335 L 300.211 118.335 L 300.211 117.202 L 298.755 117.202 Z"
+        fill="#f5eafd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_443"
+        d="M 298.755 117.202 L 300.211 117.202 L 300.211 116.069 L 298.755 116.069 Z"
+        fill="#f4e9fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_444"
+        d="M 298.755 116.069 L 300.211 116.069 L 300.211 114.936 L 298.755 114.936 Z"
+        fill="#f4e7fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_445"
+        d="M 298.755 114.936 L 300.211 114.936 L 300.211 113.803 L 298.755 113.803 Z"
+        fill="#f3e6fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_446"
+        d="M 298.755 113.802 L 300.211 113.802 L 300.211 112.67 L 298.755 112.67 Z"
+        fill="#f3e5fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_447"
+        d="M 298.755 112.67 L 300.211 112.67 L 300.211 111.536 L 298.755 111.536 Z"
+        fill="#f2e4fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_448"
+        d="M 298.755 111.536 L 300.211 111.536 L 300.211 110.403 L 298.755 110.403 Z"
+        fill="#f2e3fd"
+        fill-rule="evenodd"/>
+    <path
+        id="path_449"
+        d="M 298.755 110.403 L 300.211 110.403 L 300.211 109.27 L 298.755 109.27 Z"
+        fill="#f1e2fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_450"
+        d="M 298.755 109.27 L 300.211 109.27 L 300.211 108.137 L 298.755 108.137 Z"
+        fill="#f1e1fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_451"
+        d="M 298.755 108.137 L 300.211 108.137 L 300.211 107.003 L 298.755 107.003 Z"
+        fill="#f0e0fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_452"
+        d="M 298.755 107.003 L 300.211 107.003 L 300.211 105.87 L 298.755 105.87 Z"
+        fill="#f0dffc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_453"
+        d="M 298.755 105.87 L 300.211 105.87 L 300.211 104.737 L 298.755 104.737 Z"
+        fill="#efdefc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_454"
+        d="M 298.755 104.737 L 300.211 104.737 L 300.211 103.604 L 298.755 103.604 Z"
+        fill="#efddfc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_455"
+        d="M 298.755 103.604 L 300.211 103.604 L 300.211 102.47 L 298.755 102.47 Z"
+        fill="#eedcfc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_456"
+        d="M 298.755 102.47 L 300.211 102.47 L 300.211 101.337 L 298.755 101.337 Z"
+        fill="#eedbfc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_457"
+        d="M 298.755 101.337 L 300.211 101.337 L 300.211 100.204 L 298.755 100.204 Z"
+        fill="#eddafc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_458"
+        d="M 298.755 100.204 L 300.211 100.204 L 300.211 99.071 L 298.755 99.071 Z"
+        fill="#edd9fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_459"
+        d="M 298.755 99.071 L 300.211 99.071 L 300.211 97.938 L 298.755 97.938 Z"
+        fill="#ecd8fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_460"
+        d="M 298.755 97.937 L 300.211 97.937 L 300.211 96.804 L 298.755 96.804 Z"
+        fill="#ecd7fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_461"
+        d="M 298.755 96.805 L 300.211 96.805 L 300.211 95.672 L 298.755 95.672 Z"
+        fill="#ebd6fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_462"
+        d="M 298.755 95.671 L 300.211 95.671 L 300.211 94.538 L 298.755 94.538 Z"
+        fill="#ebd5fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_463"
+        d="M 298.755 94.538 L 300.211 94.538 L 300.211 93.405 L 298.755 93.405 Z"
+        fill="#ead4fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_464"
+        d="M 298.755 93.405 L 300.211 93.405 L 300.211 92.272 L 298.755 92.272 Z"
+        fill="#ead3fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_465"
+        d="M 298.755 92.272 L 300.211 92.272 L 300.211 91.139 L 298.755 91.139 Z M 298.755 91.139 L 300.211 91.139 L 300.211 87.203 L 298.755 87.203 Z"
+        fill="#e9d2fb"
+        fill-rule="evenodd"/>
+    <path
+        id="path_466"
+        d="M 284.33 200.845 L 315.628 200.845 L 315.628 140.457 L 284.33 140.457 Z"
+        fill="#ffffff"
+        stroke="#fad2cf"
+        stroke-width="3"
+        fill-rule="evenodd"/>
+    <path
+        id="path_467"
+        d="M 196.225 14.06 L 169.318 14.06 C 167.919 14.059 166.576 13.502 165.587 12.512 C 164.598 11.522 164.042 10.178 164.042 8.779 C 164.041 7.38 164.597 6.036 165.586 5.046 C 166.575 4.055 167.919 3.498 169.318 3.497 L 196.225 3.497 C 197.625 3.498 198.968 4.055 199.957 5.045 C 200.947 6.035 201.503 7.379 201.502 8.779 C 201.502 10.178 200.946 11.522 199.957 12.512 C 198.968 13.502 197.624 14.059 196.225 14.06 M 312.44 52.696 L 285.532 52.696 C 284.133 52.695 282.789 52.138 281.8 51.148 C 280.811 50.158 280.255 48.814 280.256 47.415 C 280.255 46.488 280.499 45.578 280.962 44.775 C 281.425 43.972 282.091 43.306 282.893 42.842 C 283.695 42.378 284.605 42.134 285.532 42.133 L 312.439 42.133 C 313.839 42.134 315.182 42.691 316.171 43.681 C 317.161 44.671 317.717 46.015 317.716 47.415 C 317.716 48.814 317.16 50.158 316.171 51.148 C 315.182 52.138 313.838 52.695 312.439 52.696"
+        fill="#ededed"
+        fill-rule="evenodd"/>
+</svg>

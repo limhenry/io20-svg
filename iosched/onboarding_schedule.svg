@@ -1,0 +1,109 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 360 251"
+    id="vector">
+    <path
+        id="path"
+        d="M 0 0 L 360 0 L 360 250 L 0 250 Z"
+        fill="#ffffff"
+        fill-rule="evenodd"/>
+    <path
+        id="path_1"
+        d="M 195 163.192 L 330 163.192 L 330 205.586 L 195 205.586 Z"
+        fill="#34a853"
+        fill-rule="evenodd"/>
+    <path
+        id="path_2"
+        d="M 194.5 164.202 L 194.5 247.982"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_3"
+        d="M 123 206.596 L 258 206.596 L 258 248.99 L 123 248.99 Z"
+        fill="#d2e3fc"
+        fill-rule="evenodd"/>
+    <path
+        id="path_4"
+        d="M 78 120.798 L 123 120.798 L 123 163.192 L 78 163.192 Z"
+        fill="#fbbc04"
+        fill-rule="evenodd"/>
+    <path
+        id="path_5"
+        d="M 122.5 36.335 L 123 162.525"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_6"
+        d="M 246 225.008 L 238.81 224.382 L 236 217.7 L 233.19 224.392 L 226 225.008 L 231.46 229.782 L 229.82 236.878 L 236 233.113 L 242.18 236.878 L 240.55 229.782 Z"
+        fill="#4285f4"/>
+    <path
+        id="path_25"
+        d="M 77.5 35.745 L 77.5 160.669"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_26"
+        d="M 33 249.495 L 360 249.495 M 32 36.335 L 32 163.192"
+        fill="#00000000"
+        stroke="#e8eaed"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_27"
+        d="M 0 78.29 L 160.42 78.29 M 32 163.192 L 32 248.991"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_28"
+        d="M 257.5 207.606 L 257.5 247.981 M 122.5 207.606 L 122.5 247.981"
+        fill="#00000000"
+        stroke="#e8eaed"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_29"
+        d="M 330.01 164.202 L 330 206.092"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_30"
+        d="M 0 205.587 L 360 206.092"
+        fill="#00000000"
+        stroke="#e8eaed"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_31"
+        d="M 32 162.688 L 330 162.688"
+        fill="#00000000"
+        stroke="#f4f4f4"
+        stroke-width="4"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+    <path
+        id="path_32"
+        d="M 0 120.546 L 236.135 120.546"
+        fill="#00000000"
+        stroke="#e8eaed"
+        stroke-width="3"
+        stroke-linecap="square"
+        fill-rule="evenodd"/>
+</svg>

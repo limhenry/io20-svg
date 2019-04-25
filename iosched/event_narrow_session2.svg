@@ -1,0 +1,22 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 80 16"
+    id="vector">
+    <path
+        id="path"
+        d="M 52.8 -70 L 52.8 11.6 L 151.29 -67.84 Z"
+        fill="#fde293"
+        stroke-linejoin="round"/>
+    <path
+        id="path_1"
+        d="M 76.04 35.4 C 76.417 28.629 74.559 21.918 70.751 16.301 C 66.943 10.684 61.393 6.466 54.956 4.298 C 48.52 2.13 41.547 2.13 35.113 4.298 C 28.678 6.466 23.132 10.684 19.33 16.301 C 15.528 21.918 13.676 28.629 14.06 35.4"
+        fill="none"
+        stroke="#ee675c"
+        stroke-width="1.32"/>
+    <path
+        id="path_2"
+        d="M 36.27 16 L 36.27 10.27 L 10.66 10.27 L 10.66 0"
+        fill="none"
+        stroke="#4285f4"
+        stroke-width="1.32"/>
+</svg>
