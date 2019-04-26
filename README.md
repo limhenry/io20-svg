@@ -10,8 +10,8 @@ Original code extracted from https://events.google.com/io/.
 
 ## Credits
 
-I/O 2019 PWA: https://events.google.com/io/
-I/O 2019 Android App: https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
+* I/O 2019 PWA: https://events.google.com/io/
+* I/O 2019 Android App: https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
 
 ## Related
 
