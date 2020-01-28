@@ -1,17 +1,17 @@
-# I/O 2019 SVG
+# I/O 2019 - 2020 SVGs
 
 ![](https://i.imgur.com/HOkAaxs.png)
 
 ![](https://i.imgur.com/snci2zM.jpg)
 
-All the SVG files from Google I/O 2019 website.
+All the SVG files from Google I/O website.
 
 Original code extracted from https://events.google.com/io/.
 
 ## Credits
 
-* I/O 2019 PWA: https://events.google.com/io/
-* I/O 2019 Android App: https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
+* Google I/O PWA: https://events.google.com/io/
+* Google I/O Android App: https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
 
 ## Related
 
